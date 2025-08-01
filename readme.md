@@ -1,3 +1,7 @@
 SISTEMA DE REGISTRO
 
-- En desarrollo - 
+- En desarrollo
+
+Para ejecutar el sistema, debes poner : 
+
+```npm install react```
